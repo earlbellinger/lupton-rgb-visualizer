@@ -1,2 +1,2 @@
-# lipton-rgb-visualizer
-Visualize the Lipton RGB color scheme in a Streamlit app 
+# lupton-rgb-visualizer
+Visualize the Lupton RGB color scheme in a Streamlit app 
